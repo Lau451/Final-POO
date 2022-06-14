@@ -19,7 +19,6 @@ namespace Modelo
         public string Email { get; set; }
         public string Dni { get; set; }
         public string Contraseña { get; set; }
-        public int PerfilId { get; set; }
     
         public virtual Perfil Perfil { get; set; }
     }

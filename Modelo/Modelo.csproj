@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D381D803-B0FB-4021-9910-2480CC0FB05A}</ProjectGuid>
+    <ProjectGuid>{1A71C345-545F-42A2-88F5-8602C28EC923}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Modelo</RootNamespace>
@@ -84,11 +84,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <EntityDeploy Include="Contexto.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Contexto.Designer.cs</LastGenOutput>
     </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
     <None Include="Contexto.edmx.diagram">
       <DependentUpon>Contexto.edmx</DependentUpon>
     </None>

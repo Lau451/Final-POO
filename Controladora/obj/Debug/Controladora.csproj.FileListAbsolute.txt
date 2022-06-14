@@ -1,0 +1,12 @@
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\Controladora.dll.config
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\Controladora.dll
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\Controladora.pdb
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\EntityFramework.dll
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\EntityFramework.xml
+C:\Users\lauma\Desktop\FinalPOO\Controladora\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lauma\Desktop\FinalPOO\Controladora\obj\Debug\Controladora.csproj.AssemblyReference.cache
+C:\Users\lauma\Desktop\FinalPOO\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\lauma\Desktop\FinalPOO\Controladora\obj\Debug\Controladora.csproj.CopyComplete
+C:\Users\lauma\Desktop\FinalPOO\Controladora\obj\Debug\Controladora.dll
+C:\Users\lauma\Desktop\FinalPOO\Controladora\obj\Debug\Controladora.pdb

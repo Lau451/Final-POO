@@ -92,10 +92,6 @@
       <Project>{d6aea601-69d3-4d3b-9d7e-898f5f74f56b}</Project>
       <Name>Controladora</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Modelo\Modelo.csproj">
-      <Project>{d381d803-b0fb-4021-9910-2480cc0fb05a}</Project>
-      <Name>Modelo</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

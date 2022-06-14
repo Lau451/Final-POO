@@ -4,14 +4,14 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="5683a23eb85e41c7b8016106379c0a94" Name="Diagram1" ZoomLevel="77" >
-        <EntityTypeShape EntityType="Contexto.Usuario" Width="1.5" PointX="11.375" PointY="0.5" />
-        <EntityTypeShape EntityType="Contexto.Perfil" Width="1.5" PointX="13.375" PointY="1.25" />
-        <EntityTypeShape EntityType="Contexto.Formulario" Width="1.5" PointX="11.25" PointY="3.5" />
-        <EntityTypeShape EntityType="Contexto.Permiso" Width="1.5" PointX="14.5" PointY="3.75" />
-        <AssociationConnector Association="Contexto.UsuarioPerfil" />
+      <Diagram DiagramId="ff09fd3eea1748ca8c0600d12a0e12ab" Name="Diagram1" ZoomLevel="64" >
+        <EntityTypeShape EntityType="Contexto.Formulario" Width="1.5" PointX="5.25" PointY="1" />
+        <EntityTypeShape EntityType="Contexto.Usuario" Width="1.5" PointX="0.75" PointY="1" />
+        <EntityTypeShape EntityType="Contexto.Perfil" Width="1.5" PointX="3" PointY="1.25" />
+        <EntityTypeShape EntityType="Contexto.Permiso" Width="1.5" PointX="3.375" PointY="3.75" />
+        <AssociationConnector Association="Contexto.PermisoFormulario" />
         <AssociationConnector Association="Contexto.PerfilFormulario" />
-        <AssociationConnector Association="Contexto.FormularioPermiso" />
+        <AssociationConnector Association="Contexto.UsuarioPerfil" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
