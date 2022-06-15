@@ -16,3 +16,6 @@ C:\Users\lauma\Desktop\FinalPOO\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.c
 C:\Users\lauma\Desktop\FinalPOO\Vista\obj\Debug\Vista.csproj.CopyComplete
 C:\Users\lauma\Desktop\FinalPOO\Vista\obj\Debug\Vista.exe
 C:\Users\lauma\Desktop\FinalPOO\Vista\obj\Debug\Vista.pdb
+C:\Users\lauma\Desktop\FinalPOO\Vista\obj\Debug\Vista.Login.resources
+C:\Users\lauma\Desktop\FinalPOO\Vista\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\lauma\Desktop\FinalPOO\Vista\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
